@@ -23,7 +23,7 @@ Spotify Data Analysis makes use of secondary data from Spotify . Use data to ide
 
 Python ![python download jpg](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/b53efd36-ac0a-4389-83d1-df004fcf1c1b)
 
- Statistics data ![SD download new](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/866ed3bb-93be-45d0-9f67-a2c5fb1c0e15)
+ Statistics data ![SD download new](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/61f1cc41-dc3e-44ec-a891-74556853a5b5)
 
 
 # Objective # 
