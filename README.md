@@ -11,3 +11,25 @@ Spotify is a Swedish music streaming and media service where you can listen to w
 
 ## Project Description ## 
 
+Here, I have explored and quantified data about music and drawn valuable insights.
+
+Conducted data cleaning to perform Exploratory Data Analysis (EDA) and data visualization of the Spotify dataset using Python (Pandas, NumPy, Matplotlib and Seaborn).
+
+Data analysis - Exploring the relationship between the audio features of a song and how positive or negative its lyrics are, involving sentiment analysis and many more.
+
+Spotify Data Analysis makes use of secondary data from Spotify . Use data to identify patterns and relationships between different characteristics. The activity will support in developing ability to review and interpret a dataset.
+
+## Technologies Used ##
+
+Python
+
+Statistics data
+
+# Objective # 
+### * Top 10 most popular songs on Spotify ###
+
+### * Top 10 least popular songs on Spotify ###
+
+### * Correlation Heatmap between Variable ###
+
+
