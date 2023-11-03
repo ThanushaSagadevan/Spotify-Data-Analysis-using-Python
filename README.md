@@ -21,15 +21,16 @@ Spotify Data Analysis makes use of secondary data from Spotify . Use data to ide
 
 ## Technologies Used ##
 
-Python
-
+Python ![python download](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/b020c7a7-7e2e-4ad8-b00b-9990a7ca1ed7)
+ 
 Statistics data
 
 # Objective # 
-### * Top 10 most popular songs on Spotify ###
 
-### * Top 10 least popular songs on Spotify ###
+* Top 10 most popular songs on Spotify 
 
-### * Correlation Heatmap between Variable ###
+* Top 10 least popular songs on Spotify 
+
+* Correlation Heatmap between Variable 
 
 
