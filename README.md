@@ -34,4 +34,5 @@ Python ![python download jpg](https://github.com/ThanushaSagadevan/Spotify-Data-
 
 * Correlation Heatmap between Variable 
 
+![map 1](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/dc5538a3-dbe0-4cdb-a188-f822043dd1e1)
 
