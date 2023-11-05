@@ -33,5 +33,18 @@ Statistics data ![SD download new](https://github.com/ThanushaSagadevan/Spotify-
 
 ![map 1](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/dc5538a3-dbe0-4cdb-a188-f822043dd1e1)
 
-5.   
+5. Regression plot - Correlation between Loudness and Energy
 
+![map 2](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/c9d45fa9-5ede-446f-8aa0-556452f3ec73)
+
+6. Regression plot - Correlation between Popularity and Acousticness 
+
+![map 3](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/941d3b49-9f7d-447a-9566-5dd26b42d02e)
+
+7. Distribution plot - Visualize total number of songs
+
+![map 4](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/a1c44594-6fba-4948-ae80-270070cd2ff6)
+
+8. Change in Duration of songs
+
+ 
