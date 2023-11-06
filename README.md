@@ -47,4 +47,17 @@ Statistics data ![SD download new](https://github.com/ThanushaSagadevan/Spotify-
 
 8. Change in Duration of songs
 
+![map 8](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/72744891-3671-4732-bf51-9758b767413b)
  
+9. Line plot - Visualize relation between Year and Duration
+
+![map 5](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/95f2cad9-6e67-4c4e-b64d-41b574487158)
+
+10. Duration of songs in different Genres
+
+![map 6](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/b43d0f5e-b899-461e-b5e8-7bbd855a9836)
+
+11. Top 5 Genres by Popularity
+
+![map 7](https://github.com/ThanushaSagadevan/Spotify-Data-Analysis-using-Python/assets/147089514/81bf682f-8819-4be5-bf97-f52f344840c8)
+
